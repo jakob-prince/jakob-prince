@@ -22,4 +22,4 @@ judgment-heavy parts.
 **How I build:** I architect the system and its invariants, then move fast with
 AI coding agents — and I can walk you through every design tradeoff live.
 
-📫 [LinkedIn](https://www.linkedin.com/in/jakob-prince) · open to demo speakerships and technical conversations
+📫 [LinkedIn](https://www.linkedin.com/in/jakobprince/) · open to demo speakerships and technical conversations
